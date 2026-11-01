@@ -1,0 +1,27 @@
+# Local credentials, account-specific data and session files
+.env
+.env.*
+!.env.example
+config.toml
+*.local.toml
+private/
+data/
+logs/
+*.log
+*.har
+*.webm
+*.png
+*.jpg
+*.jpeg
+*.webp
+playwright-report/
+test-results/
+.pytest_cache/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
