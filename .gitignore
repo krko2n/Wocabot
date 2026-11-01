@@ -1,12 +1,26 @@
-# Account-specific files must never be committed
+# Per-user authentication and local configuration
+config.toml
+*.local.toml
 .env
 .env.*
 !.env.example
-config.toml
-*.local.toml
-private/
-data/
+
+# Runtime data that can contain account-derived vocabulary or image mappings
+runtime/
+wordlist.json
+picturelist.json
+!defaults/
+!defaults/wordlist.json
+!defaults/picturelist.json
+
+# Browser runtime and its machine-specific link file
+ms-playwright/
+PLAYWRIGHT_BROWSERS_PATH/
+
+# Diagnostics and browser-produced artifacts
+diagnostics/
 logs/
+screenshots/
 *.log
 *.har
 *.webm
@@ -16,9 +30,16 @@ logs/
 *.webp
 playwright-report/
 test-results/
-.pytest_cache/
+
+# Historical binaries, builds, caches and editor state
+*.bak
+*.tmp
+*.cache
+build/
+dist/
 __pycache__/
 *.py[cod]
+.pytest_cache/
 .venv/
 venv/
 .vscode/

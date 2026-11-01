@@ -1,13 +1,33 @@
-# Optional settings for direct use of legacy scripts. Ordinary users run bot.py.
-urlbase = "https://wocabee.app/app"
-debug_port = "http://127.0.0.1:9222"
-wordlist_file = "data/wordlist.json"
-picture_file = "data/picturelist.json"
-placeholder_words = ["", "translate", "check"]
+# Public example only. Copy this file to config.toml and enter your own details
+# using the Control application. Never commit config.toml.
+
+urlbase = "https://wocabee.app/app/"
+debug_port = ""
+
+# Per-user runtime data. Setup-Browser.cmd creates empty files at these paths.
+wordlist_file = "runtime/wordlist.json"
+picture_file = "runtime/picturelist.json"
+placeholder_words = ["placeholder-one", "placeholder-two", "placeholder-three"]
+
+# Indices are zero-based. Leave both at 0 for the first available selection.
 class_index = 0
 package_index = 0
-addon_points = 100
-milestone_reminder = 100
+
+# Existing portable defaults.
+addon_points = 10
+milestone_reminder = 10
 headless = false
 double_points = false
-# Never put usernames, passwords or tokens into tracked files.
+action_delay_ms = 650
+post_action_settle_ms = 650
+idle_timeout_seconds = 20
+pexeso_double_click_gap_ms = 110
+
+# Replace these placeholders locally; do not publish your completed config.toml.
+username = "YOUR_USERNAME"
+password = "YOUR_PASSWORD"
+
+# Optional notifications are disabled by default.
+ntfy_server = ""
+ntfy_topic = ""
+ntfy_token = ""
