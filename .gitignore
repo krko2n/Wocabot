@@ -1,4 +1,4 @@
-# Local credentials, account-specific data and session files
+# Account-specific files must never be committed
 .env
 .env.*
 !.env.example

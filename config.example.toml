@@ -1,0 +1,13 @@
+# Optional settings for direct use of legacy scripts. Ordinary users run bot.py.
+urlbase = "https://wocabee.app/app"
+debug_port = "http://127.0.0.1:9222"
+wordlist_file = "data/wordlist.json"
+picture_file = "data/picturelist.json"
+placeholder_words = ["", "translate", "check"]
+class_index = 0
+package_index = 0
+addon_points = 100
+milestone_reminder = 100
+headless = false
+double_points = false
+# Never put usernames, passwords or tokens into tracked files.
