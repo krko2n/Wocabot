@@ -1,0 +1,114 @@
+Attached to practice tab: https://wocabee.app/app/student/class/practice/?class_id=139365&package_id=1911582&mode=homework
+Package mappings ready: 16 rows (0 new word mappings, 0 new picture mappings).
+Diagnostic screenshot: F:\WocaBee-Control-Portable\diagnostics\20261024-225216\solver-start.png
+Warning: the selected package is not completed. WocaBee may not award WocaPoints or persist progress until the next package checkpoint.
+Current WocaBee UI has no #WocaPoints counter; addon_points is used as the successful-exercise target, while package progress is logged separately.
+Progress mode: finish all three parts of this package. Starting at 0% in part 2 of 3.
+CompleteWord Question: motivace
+Target answer: die Motivation
+Missing letters: ['i', 'e', 'o', 't', 'v']
+Clicking CompleteWord submit button | Progress: 0
+Correct exercise confirmed: 1; package progress: 2%
+TranslateWord answered: lieb | Progress: 4
+Correct exercise confirmed: 2; package progress: 4%
+ChooseWord Question: znervóznět | Progress: 4
+ChooseWord: clicked nervös werden | Progress: 6
+Correct exercise confirmed: 3; package progress: 6%
+OneOutOfMany answered: kennenlernen | Progress: 6
+Correct exercise confirmed: 4; package progress: 8%
+OneOutOfMany answered: letzte | Progress: 8
+Correct exercise confirmed: 5; package progress: 10%
+OneOutOfMany answered: der koffer | Progress: 10
+Correct exercise confirmed: 6; package progress: 12%
+TranslateWord answered: das Interesse | Progress: 15
+Correct exercise confirmed: 7; package progress: 15%
+TranslateWord answered: die Natur | Progress: 17
+Correct exercise confirmed: 8; package progress: 17%
+Skipping transcribe exercise.
+TranslateWord answered: minulý | Progress: 19
+Correct exercise confirmed: 9; package progress: 19%
+Skipping transcribe exercise.
+TranslateWord answered: milý | Progress: 21
+Correct exercise confirmed: 10; package progress: 21%
+CompleteWord Question: motivace
+Target answer: die Motivation
+Missing letters: ['e', 't', 'v', 'i', 'n']
+Clicking CompleteWord submit button | Progress: 21
+Correct exercise confirmed: 11; package progress: 23%
+Skipping transcribe exercise.
+TranslateWord answered: Nízké Tatry | Progress: 25
+Correct exercise confirmed: 12; package progress: 25%
+Skipping transcribe exercise.
+TranslateWord answered: Norsko | Progress: 27
+Correct exercise confirmed: 13; package progress: 27%
+TranslateWord answered: seznámení | Progress: 29
+Correct exercise confirmed: 14; package progress: 29%
+TranslateWord answered: milý | Progress: 31
+Correct exercise confirmed: 15; package progress: 31%
+Correct exercise confirmed: 16; package progress: 40%
+TranslateWord answered: poznat, seznámit se | Progress: 42
+Correct exercise confirmed: 17; package progress: 42%
+CompleteWord Question: kultura
+Target answer: die Kultur
+Missing letters: ['i', 't', 'r']
+Clicking CompleteWord submit button | Progress: 42
+Correct exercise confirmed: 18; package progress: 44%
+TranslateWord answered: die Kasse | Progress: 46
+Correct exercise confirmed: 19; package progress: 46%
+Skipping listen-and-choose exercise with WocaBee's skip control.
+ChooseWord Question: die Motivation | Progress: 46
+ChooseWord: clicked motivace | Progress: 48
+Correct exercise confirmed: 20; package progress: 48%
+Correct exercise confirmed: 21; package progress: 56%
+ChooseWord Question: kiosek | Progress: 56
+ChooseWord: clicked der Kiosk | Progress: 58
+Correct exercise confirmed: 22; package progress: 58%
+TranslateWord answered: Vysoké Tatry | Progress: 60
+Correct exercise confirmed: 23; package progress: 60%
+OneOutOfMany answered: die kultur | Progress: 60
+Correct exercise confirmed: 24; package progress: 62%
+ChoosePicture: clicked correct image for 'der koffer' | Progress: 65%
+Correct exercise confirmed: 25; package progress: 65%
+CompleteWord Question: zájem
+Target answer: das Interesse
+Missing letters: ['d', 'a', 'e', 's']
+Clicking CompleteWord submit button | Progress: 65
+Correct exercise confirmed: 26; package progress: 67%
+TranslateWord answered: příroda | Progress: 69
+Correct exercise confirmed: 27; package progress: 69%
+Correct exercise confirmed: 28; package progress: 77%
+TranslateWord answered: nervös werden | Progress: 79
+Correct exercise confirmed: 29; package progress: 79%
+CompleteWord Question: pokladna
+Target answer: die Kasse
+Missing letters: ['d', 'e', 'e']
+Clicking CompleteWord submit button | Progress: 79
+Correct exercise confirmed: 30; package progress: 81%
+ChooseWord Question: der Kiosk | Progress: 81
+ChooseWord: clicked kiosek | Progress: 83
+Correct exercise confirmed: 31; package progress: 83%
+ChooseWord Question: die Hohe Tatra | Progress: 83
+ChooseWord: clicked Vysoké Tatry | Progress: 85
+Correct exercise confirmed: 32; package progress: 85%
+CompleteWord Question: Nízké Tatry
+Target answer: die Niedere Tatra
+Missing letters: ['i', 'd', 'e', 'e', 'r']
+Clicking CompleteWord submit button | Progress: 85
+Correct exercise confirmed: 33; package progress: 87%
+OneOutOfMany answered: hektisch | Progress: 87
+Correct exercise confirmed: 34; package progress: 90%
+ChooseWord Question: das Kennenlernen | Progress: 90
+ChooseWord: clicked seznámení | Progress: 92
+Correct exercise confirmed: 35; package progress: 92%
+TranslateWord answered: znervóznět | Progress: 94
+Correct exercise confirmed: 36; package progress: 94%
+TranslateWord answered: das Kennenlernen | Progress: 96
+Correct exercise confirmed: 37; package progress: 96%
+ChooseWord Question: hektisch | Progress: 96
+ChooseWord: clicked hektický | Progress: 98
+Correct exercise confirmed: 38; package progress: 98%
+TranslateWord answered: Vysoké Tatry | Progress: 100
+WocaBee completion screen detected; saving this completed package part.
+Clicking WocaBee's visible 'Uložit a odejít' completion action.
+Completed package part saved and class package list restored.
+Diagnostic screenshot: F:\WocaBee-Control-Portable\diagnostics\20261024-225216\solver-finished.png

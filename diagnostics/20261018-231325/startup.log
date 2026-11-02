@@ -1,0 +1,28 @@
+2026-10-18 23:13:36,555 | INFO | Chromium launched successfully (version 156.0.8078.4).
+2026-10-18 23:13:38,732 | INFO | Opened https://wocabee.app/app/
+2026-10-18 23:13:38,802 | INFO | Credentials submitted (values omitted from logs).
+2026-10-18 23:13:40,355 | ERROR | Startup failed.
+Traceback (most recent call last):
+  File "startup.py", line 282, in main
+  File "startup.py", line 94, in login
+  File "startup.py", line 75, in wait_for_visible
+  File "playwright\sync_api\_generated.py", line 13635, in wait_for
+    self._sync(
+  File "playwright\_impl\_sync_base.py", line 111, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "playwright\_impl\_locator.py", line 767, in wait_for
+    await self._frame.wait_for_selector(
+  File "playwright\_impl\_frame.py", line 395, in wait_for_selector
+    await self._channel.send(
+  File "playwright\_impl\_connection.py", line 78, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "playwright\_impl\_connection.py", line 636, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TargetClosedError: : Target page, context or browser has been closed
+Call log:
+  - waiting for locator("#listOfClasses a").first to be visible
+    - waiting for "https://wocabee.app/app/student/" navigation to finish...
+    - navigated to "https://wocabee.app/app/student/"
+

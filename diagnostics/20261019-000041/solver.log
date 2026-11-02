@@ -1,0 +1,9 @@
+Attached to practice tab: https://wocabee.app/app/student/class/practice/?class_id=139365&package_id=1891813&mode=homework
+Package mappings ready: 15 rows (0 new word mappings, 0 new picture mappings).
+Diagnostic screenshot: C:\Users\matej\Documents\Codex\2026-10-18\task-fix-and-set-up-wocafuckoff\outputs\WocaBee-Control-Portable\diagnostics\20261019-000041\solver-start.png
+Current WocaBee UI has no #WocaPoints counter; addon_points is used as the successful-exercise target, while package progress is logged separately.
+Progress mode: finish all three parts of this package. Starting at 100% in part 3 of 3.
+Requested progress boundary is already reached; leaving without answers.
+open save-and-leave screen: control is no longer actionable; UI likely moved on.
+WocaBee returned directly to the class list without a leave dialog.
+Diagnostic screenshot: C:\Users\matej\Documents\Codex\2026-10-18\task-fix-and-set-up-wocafuckoff\outputs\WocaBee-Control-Portable\diagnostics\20261019-000041\solver-finished.png

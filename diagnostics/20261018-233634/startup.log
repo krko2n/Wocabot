@@ -1,0 +1,12 @@
+2026-10-18 23:36:34,933 | INFO | Chromium launched successfully (version 156.0.8078.4).
+2026-10-18 23:36:35,463 | INFO | Opened https://wocabee.app/app/
+2026-10-18 23:36:35,518 | INFO | Credentials submitted (values omitted from logs).
+2026-10-18 23:36:37,398 | INFO | Login verified: class list is visible.
+2026-10-18 23:36:37,418 | INFO | Run plan: 1 class(es), selected packages per class.
+2026-10-18 23:36:37,610 | INFO | Class navigation verified: https://wocabee.app/app/student/class/?class_id=139365
+2026-10-18 23:36:37,632 | INFO | Class 0: running 1 package(s).
+2026-10-18 23:36:37,973 | INFO | Package navigation verified: https://wocabee.app/app/student/class/practice/?class_id=139365&package_id=1873646&mode=homework
+2026-10-18 23:36:38,132 | INFO | Diagnostic screenshot: C:\Users\matej\Documents\Codex\2026-10-18\task-fix-and-set-up-wocafuckoff\outputs\WocaBee-Control-Portable\diagnostics\20261018-233634\class-0-package-0-selected.png
+2026-10-18 23:36:38,132 | INFO | Starting solver process.
+2026-10-18 23:36:48,644 | INFO | Solver exited with code 0.
+2026-10-18 23:36:48,644 | INFO | Run plan completed: 1 package(s).

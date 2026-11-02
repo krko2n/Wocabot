@@ -1,0 +1,16 @@
+2026-10-18 23:37:38,029 | INFO | Chromium launched successfully (version 156.0.8078.4).
+2026-10-18 23:37:38,553 | INFO | Opened https://wocabee.app/app/
+2026-10-18 23:37:38,612 | INFO | Credentials submitted (values omitted from logs).
+2026-10-18 23:37:40,482 | INFO | Login verified: class list is visible.
+2026-10-18 23:37:40,500 | INFO | Run plan: 1 class(es), all packages per class.
+2026-10-18 23:37:40,680 | INFO | Class navigation verified: https://wocabee.app/app/student/class/?class_id=139365
+2026-10-18 23:37:40,706 | INFO | Class 0: running 2 package(s).
+2026-10-18 23:37:41,100 | INFO | Package navigation verified: https://wocabee.app/app/student/class/practice/?class_id=139365&package_id=1873646&mode=homework
+2026-10-18 23:37:41,257 | INFO | Diagnostic screenshot: C:\Users\matej\Documents\Codex\2026-10-18\task-fix-and-set-up-wocafuckoff\outputs\WocaBee-Control-Portable\diagnostics\20261018-233737\class-0-package-0-selected.png
+2026-10-18 23:37:41,257 | INFO | Starting solver process.
+2026-10-18 23:39:55,976 | INFO | Solver exited with code 0.
+2026-10-18 23:39:56,112 | INFO | Package navigation verified: https://wocabee.app/app/student/class/practice/?class_id=139365&package_id=1891813&mode=homework
+2026-10-18 23:39:56,279 | INFO | Diagnostic screenshot: C:\Users\matej\Documents\Codex\2026-10-18\task-fix-and-set-up-wocafuckoff\outputs\WocaBee-Control-Portable\diagnostics\20261018-233737\class-0-package-1-selected.png
+2026-10-18 23:39:56,279 | INFO | Starting solver process.
+2026-10-18 23:43:13,166 | INFO | Solver exited with code 1.
+2026-10-18 23:43:13,166 | ERROR | Stopping batch after class 0 package 1 failed.

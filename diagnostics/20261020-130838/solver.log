@@ -1,0 +1,4 @@
+Startup/Connection error: Traceback (most recent call last):
+  File "solver.py", line 1006, in main
+RuntimeError: No open WocaBee practice tab found for 'https://wocabee.app/app/student/class/practice/?class_id=139365&package_id=1873646&mode=practice'.
+

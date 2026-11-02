@@ -1,0 +1,143 @@
+Attached to practice tab: https://wocabee.app/app/student/class/practice/?class_id=139365&package_id=1891813&mode=homework
+Package mappings ready: 15 rows (0 new word mappings, 0 new picture mappings).
+Diagnostic screenshot: C:\Users\matej\Documents\Codex\2026-10-18\task-fix-and-set-up-wocafuckoff\outputs\WocaBee-Control-Portable\diagnostics\20261018-234945\solver-start.png
+Warning: the selected package is not completed. WocaBee may not award WocaPoints or persist progress until the next package checkpoint.
+Current WocaBee UI has no #WocaPoints counter; addon_points is used as the successful-exercise target, while package progress is logged separately.
+Progress mode: finish all three parts of this package. Starting at 0% in part 2 of 3.
+Skipping transcribe exercise.
+TranslateWord answered: ohlásit se | Progress: 2
+Correct exercise confirmed: 1; package progress: 2%
+Skipping transcribe exercise.
+TranslateWord answered: skončit | Progress: 4
+Correct exercise confirmed: 2; package progress: 4%
+Correct exercise confirmed: 3; package progress: 7%
+TranslateWord answered: lernen | Progress: 9
+Correct exercise confirmed: 4; package progress: 9%
+Skipping listen-and-choose exercise with WocaBee's skip control.
+ChooseWord Question: das Thema | Progress: 9
+ChooseWord: clicked téma | Progress: 11
+Correct exercise confirmed: 5; package progress: 11%
+ChooseWord Question: mladý | Progress: 11
+ChooseWord: clicked jung | Progress: 13
+Correct exercise confirmed: 6; package progress: 13%
+FindPair: answer 'breit' not present for 'siroky'
+Correct exercise confirmed: 7; package progress: 16%
+TranslateWord answered: der Wortschatz | Progress: 18
+Correct exercise confirmed: 8; package progress: 18%
+ChooseSpelling answered: zufrieden | Progress: 18
+Correct exercise confirmed: 9; package progress: 20%
+TranslateWord answered: ohlásit se | Progress: 22
+Correct exercise confirmed: 10; package progress: 22%
+ChooseWord Question: téma | Progress: 22
+ChooseWord: clicked das Thema | Progress: 24
+Correct exercise confirmed: 11; package progress: 24%
+TranslateWord answered: podobný | Progress: 27
+Correct exercise confirmed: 12; package progress: 27%
+TranslateWord answered: téma | Progress: 29
+Correct exercise confirmed: 13; package progress: 29%
+ChooseWord Question: zufrieden | Progress: 29
+ChooseWord: clicked spokojený | Progress: 31
+Correct exercise confirmed: 14; package progress: 31%
+ChooseWord Question: mladý | Progress: 31
+ChooseWord: clicked jung | Progress: 33
+Correct exercise confirmed: 15; package progress: 33%
+CompleteWord Question: podobný
+Target answer: ähnlich
+Missing letters: ['ä', 'i', 'c']
+Clicking CompleteWord submit button | Progress: 33
+Correct exercise confirmed: 16; package progress: 36%
+FindPair: answer 'der wortschatz' not present for 'slovni zasoba'
+FindPair: answer 'ahnlich' not present for 'podobny'
+Correct exercise confirmed: 17; package progress: 38%
+ChooseWord Question: sich melden | Progress: 38
+ChooseWord: clicked ohlásit se | Progress: 40
+Correct exercise confirmed: 18; package progress: 40%
+ChooseWord Question: podobný | Progress: 40
+ChooseWord: clicked ähnlich | Progress: 42
+Correct exercise confirmed: 19; package progress: 42%
+OneOutOfMany answered: breit | Progress: 42
+Correct exercise confirmed: 20; package progress: 44%
+Skipping transcribe exercise.
+TranslateWord answered: učitel angličtiny | Progress: 47
+Correct exercise confirmed: 21; package progress: 47%
+ChooseSpelling answered: aus sein | Progress: 47
+Correct exercise confirmed: 22; package progress: 49%
+TranslateWord answered: hlasitý | Progress: 51
+Correct exercise confirmed: 23; package progress: 51%
+TranslateWord answered: spokojený | Progress: 53
+Correct exercise confirmed: 24; package progress: 53%
+ChooseWord Question: breit | Progress: 53
+ChooseWord: clicked široký | Progress: 56
+Correct exercise confirmed: 25; package progress: 56%
+CompleteWord Question: kosmetická operace
+Target answer: die Schönheitsoperation
+Missing letters: ['c', 'h', 's', 't', 'i']
+Clicking CompleteWord submit button | Progress: 56
+Correct exercise confirmed: 26; package progress: 58%
+ChoosePicture: clicked correct image for 'laut' | Progress: 60%
+Correct exercise confirmed: 27; package progress: 60%
+CompleteWord Question: široký
+Target answer: breit
+Missing letters: ['i', 't']
+Clicking CompleteWord submit button | Progress: 60
+Correct exercise confirmed: 28; package progress: 62%
+ChooseWord Question: skončit | Progress: 62
+ChooseWord: clicked aus sein | Progress: 64
+Correct exercise confirmed: 29; package progress: 64%
+FindPair: answer 'das thema' not present for 'tema'
+Correct exercise confirmed: 30; package progress: 67%
+FindPair: answer 'lernen' not present for 'ucit se'
+Correct exercise confirmed: 31; package progress: 69%
+ChooseWord Question: lernen | Progress: 69
+ChooseWord: clicked učit se | Progress: 71
+Correct exercise confirmed: 32; package progress: 71%
+FindPair: answer 'jung' not present for 'mlady'
+Correct exercise confirmed: 33; package progress: 73%
+FindPair: answer 'der englischlehrer' not present for 'ucitel anglictiny'
+Correct exercise confirmed: 34; package progress: 76%
+ChoosePicture: clicked correct image for 'laut' | Progress: 78%
+Correct exercise confirmed: 35; package progress: 78%
+Correct exercise confirmed: 36; package progress: 80%
+Correct exercise confirmed: 37; package progress: 89%
+ChooseSpelling answered: diskutieren | Progress: 89
+Correct exercise confirmed: 38; package progress: 91%
+FindPair: answer 'zufrieden' not present for 'spokojeny'
+FindPair: answer 'aus sein' not present for 'skoncit'
+Correct exercise confirmed: 39; package progress: 93%
+CompleteWord Question: diskutovat
+Target answer: diskutieren
+Missing letters: ['d', 'i', 'r', 'n']
+Clicking CompleteWord submit button | Progress: 93
+Correct exercise confirmed: 40; package progress: 96%
+OneOutOfMany answered: schlimm | Progress: 96
+Correct exercise confirmed: 41; package progress: 98%
+TranslateWord answered: der Englischlehrer | Progress: 100
+Diagnostic screenshot: C:\Users\matej\Documents\Codex\2026-10-18\task-fix-and-set-up-wocafuckoff\outputs\WocaBee-Control-Portable\diagnostics\20261018-234945\unsupported-or-idle.png
+Runtime error: Traceback (most recent call last):
+  File "solver.py", line 1184, in main
+RuntimeError: No supported exercise became actionable. Visible state: none
+
+Diagnostic screenshot: C:\Users\matej\Documents\Codex\2026-10-18\task-fix-and-set-up-wocafuckoff\outputs\WocaBee-Control-Portable\diagnostics\20261018-234945\runtime-error-1.png
+Diagnostic screenshot: C:\Users\matej\Documents\Codex\2026-10-18\task-fix-and-set-up-wocafuckoff\outputs\WocaBee-Control-Portable\diagnostics\20261018-234945\unsupported-or-idle.png
+Runtime error: Traceback (most recent call last):
+  File "solver.py", line 1184, in main
+RuntimeError: No supported exercise became actionable. Visible state: none
+
+Diagnostic screenshot: C:\Users\matej\Documents\Codex\2026-10-18\task-fix-and-set-up-wocafuckoff\outputs\WocaBee-Control-Portable\diagnostics\20261018-234945\runtime-error-2.png
+Diagnostic screenshot: C:\Users\matej\Documents\Codex\2026-10-18\task-fix-and-set-up-wocafuckoff\outputs\WocaBee-Control-Portable\diagnostics\20261018-234945\unsupported-or-idle.png
+Runtime error: Traceback (most recent call last):
+  File "solver.py", line 1184, in main
+RuntimeError: No supported exercise became actionable. Visible state: none
+
+Diagnostic screenshot: C:\Users\matej\Documents\Codex\2026-10-18\task-fix-and-set-up-wocafuckoff\outputs\WocaBee-Control-Portable\diagnostics\20261018-234945\runtime-error-3.png
+Startup/Connection error: Traceback (most recent call last):
+  File "solver.py", line 1184, in main
+RuntimeError: No supported exercise became actionable. Visible state: none
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "solver.py", line 1202, in main
+RuntimeError: Three consecutive runtime errors; stopping safely.
+
+Diagnostic screenshot: C:\Users\matej\Documents\Codex\2026-10-18\task-fix-and-set-up-wocafuckoff\outputs\WocaBee-Control-Portable\diagnostics\20261018-234945\solver-fatal.png

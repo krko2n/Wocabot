@@ -1,0 +1,72 @@
+Attached to practice tab: https://wocabee.app/app/student/class/practice/?class_id=139365&package_id=1891813&mode=homework
+Package mappings ready: 15 rows (0 new word mappings, 0 new picture mappings).
+Diagnostic screenshot: C:\Users\matej\Documents\Codex\2026-10-18\task-fix-and-set-up-wocafuckoff\outputs\WocaBee-Control-Portable\diagnostics\20261018-232148\solver-start.png
+Warning: the selected package is not completed. WocaBee may not award WocaPoints or persist progress until the next package checkpoint.
+Current WocaBee UI has no #WocaPoints counter; addon_points is used as the successful-exercise target, while package progress is logged separately.
+Progress mode: finish all three parts of this package. Starting at 0% in part 1 of 3.
+Skipping vocabulary-introduction step: start exercises after vocabulary introduction.
+Runtime error: Traceback (most recent call last):
+  File "solver.py", line 1065, in main
+  File "solver.py", line 308, in handle_intro_learning
+  File "solver.py", line 367, in paced_click
+  File "playwright\sync_api\_generated.py", line 11021, in click
+    self._sync(
+  File "playwright\_impl\_sync_base.py", line 111, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "playwright\_impl\_locator.py", line 174, in click
+    return await self._frame._click(self._selector, strict=True, **params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "playwright\_impl\_frame.py", line 598, in _click
+    await self._channel.send("click", self._timeout, locals_to_params(locals()))
+  File "playwright\_impl\_connection.py", line 78, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "playwright\_impl\_connection.py", line 636, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: : Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator("#introRun")
+    - locator resolved to <button id="introRun" class="btn btn-lg btn-primary btn-block">…</button>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+      - waiting 100ms
+    15 × waiting for element to be visible, enabled and stable
+       - element is not visible
+     - retrying click action
+       - waiting 500ms
+
+
+Diagnostic screenshot: C:\Users\matej\Documents\Codex\2026-10-18\task-fix-and-set-up-wocafuckoff\outputs\WocaBee-Control-Portable\diagnostics\20261018-232148\runtime-error-1.png
+Diagnostic screenshot: C:\Users\matej\Documents\Codex\2026-10-18\task-fix-and-set-up-wocafuckoff\outputs\WocaBee-Control-Portable\diagnostics\20261018-232148\intro-without-actionable-control.png
+Runtime error: Traceback (most recent call last):
+  File "solver.py", line 1065, in main
+  File "solver.py", line 312, in handle_intro_learning
+RuntimeError: WocaBee vocabulary-introduction screen is visible, but its Next/Start control is unavailable.
+
+Diagnostic screenshot: C:\Users\matej\Documents\Codex\2026-10-18\task-fix-and-set-up-wocafuckoff\outputs\WocaBee-Control-Portable\diagnostics\20261018-232148\runtime-error-2.png
+Diagnostic screenshot: C:\Users\matej\Documents\Codex\2026-10-18\task-fix-and-set-up-wocafuckoff\outputs\WocaBee-Control-Portable\diagnostics\20261018-232148\intro-without-actionable-control.png
+Runtime error: Traceback (most recent call last):
+  File "solver.py", line 1065, in main
+  File "solver.py", line 312, in handle_intro_learning
+RuntimeError: WocaBee vocabulary-introduction screen is visible, but its Next/Start control is unavailable.
+
+Diagnostic screenshot: C:\Users\matej\Documents\Codex\2026-10-18\task-fix-and-set-up-wocafuckoff\outputs\WocaBee-Control-Portable\diagnostics\20261018-232148\runtime-error-3.png
+Startup/Connection error: Traceback (most recent call last):
+  File "solver.py", line 1065, in main
+  File "solver.py", line 312, in handle_intro_learning
+RuntimeError: WocaBee vocabulary-introduction screen is visible, but its Next/Start control is unavailable.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "solver.py", line 1146, in main
+RuntimeError: Three consecutive runtime errors; stopping safely.
+
+Diagnostic screenshot: C:\Users\matej\Documents\Codex\2026-10-18\task-fix-and-set-up-wocafuckoff\outputs\WocaBee-Control-Portable\diagnostics\20261018-232148\solver-fatal.png

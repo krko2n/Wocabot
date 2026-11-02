@@ -1,0 +1,11 @@
+Attached to practice tab: https://wocabee.app/app/student/class/practice/?class_id=139365&package_id=1873646&mode=homework
+Package mappings ready: 16 rows (0 new word mappings, 0 new picture mappings).
+Diagnostic screenshot: C:\Users\matej\Documents\Codex\2026-10-18\task-fix-and-set-up-wocafuckoff\outputs\WocaBee-Control-Portable\diagnostics\20261018-233634\solver-start.png
+Warning: the selected package is not completed. WocaBee may not award WocaPoints or persist progress until the next package checkpoint.
+Current WocaBee UI has no #WocaPoints counter; addon_points is used as the successful-exercise target, while package progress is logged separately.
+Correct exercise confirmed: 1; package progress: 52%
+Target reached: 1 successful exercises.
+WocaBee resume checkpoint: 50% (current in-session progress: 52%).
+Warning: this incomplete package only preserves its checkpoint on early exit; progress since that checkpoint will not persist.
+Practice saved and class package list restored.
+Diagnostic screenshot: C:\Users\matej\Documents\Codex\2026-10-18\task-fix-and-set-up-wocafuckoff\outputs\WocaBee-Control-Portable\diagnostics\20261018-233634\solver-finished.png

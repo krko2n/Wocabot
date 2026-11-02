@@ -1,0 +1,16 @@
+2026-10-20 13:08:40,085 | INFO | Chromium launched successfully (version 156.0.8078.4).
+2026-10-20 13:08:40,454 | INFO | Opened https://wocabee.app/app/
+2026-10-20 13:08:40,510 | INFO | Credentials submitted (values omitted from logs).
+2026-10-20 13:08:41,889 | INFO | Login verified: class list is visible.
+2026-10-20 13:08:41,913 | INFO | Run plan: 1 class(es), all packages per class.
+2026-10-20 13:08:42,095 | INFO | Class navigation verified: https://wocabee.app/app/student/class/?class_id=139365
+2026-10-20 13:08:42,133 | INFO | Class 0: running 3 package(s).
+2026-10-20 13:08:42,299 | INFO | Package navigation verified: https://wocabee.app/app/student/class/practice/?class_id=139365&package_id=1891813&mode=practice
+2026-10-20 13:08:42,463 | INFO | Diagnostic screenshot: E:\WocaBee-Control-Portable\diagnostics\20261020-130838\class-0-package-0-part-1-selected.png
+2026-10-20 13:08:42,463 | INFO | Starting solver process.
+2026-10-20 13:08:48,450 | INFO | Solver exited with code 0.
+2026-10-20 13:08:48,562 | INFO | Package navigation verified: https://wocabee.app/app/student/class/practice/?class_id=139365&package_id=1873646&mode=practice
+2026-10-20 13:08:48,725 | INFO | Diagnostic screenshot: E:\WocaBee-Control-Portable\diagnostics\20261020-130838\class-0-package-1-part-1-selected.png
+2026-10-20 13:08:48,725 | INFO | Starting solver process.
+2026-10-20 13:08:52,670 | INFO | Solver exited with code 1.
+2026-10-20 13:08:52,670 | ERROR | Stopping batch after class 0 package 1 failed.

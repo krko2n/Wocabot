@@ -1,0 +1,25 @@
+# Veřejná výchozí konfigurace portable sestavy.
+# Před použitím nahraďte pouze hodnoty username a password vlastními údaji.
+
+urlbase = "https://wocabee.app/app/"
+debug_port = ""
+wordlist_file = "wordlist.json"
+picture_file = "picturelist.json"
+placeholder_words = ["placeholder-one", "placeholder-two", "placeholder-three"]
+class_index = 0
+package_index = 0
+addon_points = 10
+milestone_reminder = 10
+headless = false
+double_points = false
+action_delay_ms = 650
+post_action_settle_ms = 650
+idle_timeout_seconds = 20
+pexeso_double_click_gap_ms = 110
+
+username = "GENERIC_USERNAME"
+password = "GENERIC_PASSWORD"
+
+ntfy_server = ""
+ntfy_topic = ""
+ntfy_token = ""

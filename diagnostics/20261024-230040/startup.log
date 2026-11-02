@@ -1,0 +1,30 @@
+2026-10-24 23:00:42,838 | INFO | Chromium launched successfully (version 156.0.8078.4).
+2026-10-24 23:00:43,409 | INFO | Opened https://wocabee.app/app/
+2026-10-24 23:00:43,465 | INFO | Credentials submitted (values omitted from logs).
+2026-10-24 23:00:45,374 | INFO | Login verified: class list is visible.
+2026-10-24 23:00:45,405 | INFO | Run plan: 3 class(es), all packages per class.
+2026-10-24 23:00:47,185 | INFO | Class navigation verified: https://wocabee.app/app/student/class/?class_id=139365
+2026-10-24 23:00:47,206 | INFO | Class 0: running 2 package(s).
+2026-10-24 23:00:47,646 | INFO | Package navigation verified: https://wocabee.app/app/student/class/practice/?class_id=139365&package_id=1911581&mode=homework
+2026-10-24 23:00:49,707 | INFO | Diagnostic screenshot: F:\WocaBee-Control-Portable\diagnostics\20261024-230040\class-0-package-0-part-1-selected.png
+2026-10-24 23:00:49,707 | INFO | Starting solver process.
+2026-10-24 23:07:59,509 | INFO | Solver exited with code 0.
+2026-10-24 23:07:59,721 | INFO | Package navigation verified: https://wocabee.app/app/student/class/practice/?class_id=139365&package_id=1911582&mode=homework
+2026-10-24 23:07:59,949 | INFO | Diagnostic screenshot: F:\WocaBee-Control-Portable\diagnostics\20261024-230040\class-0-package-1-part-1-selected.png
+2026-10-24 23:07:59,949 | INFO | Starting solver process.
+2026-10-24 23:11:21,511 | INFO | Solver exited with code 0.
+2026-10-24 23:11:37,564 | ERROR | Startup failed.
+Traceback (most recent call last):
+  File "startup.py", line 295, in main
+  File "startup.py", line 231, in open_class
+  File "playwright\sync_api\_generated.py", line 21446, in wait_for_url
+  File "playwright\_impl\_sync_base.py", line 111, in _sync
+  File "playwright\_impl\_page.py", line 592, in wait_for_url
+  File "playwright\_impl\_frame.py", line 289, in wait_for_url
+  File "playwright\_impl\_event_context_manager.py", line 33, in __aexit__
+  File "playwright\_impl\_frame.py", line 265, in continuation
+playwright._impl._errors.TimeoutError: Timeout 15000ms exceeded.
+=========================== logs ===========================
+waiting for navigation to "re.compile('/app/student/class/')" until 'load'
+============================================================
+2026-10-24 23:11:37,754 | INFO | Diagnostic screenshot: F:\WocaBee-Control-Portable\diagnostics\20261024-230040\startup-error.png

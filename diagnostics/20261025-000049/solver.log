@@ -1,0 +1,21 @@
+Attached to practice tab: https://wocabee.app/app/student/class/practice/?class_id=139365&package_id=1891813&mode=practice
+Package mappings ready: 15 rows (0 new word mappings, 0 new picture mappings).
+Diagnostic screenshot: F:\WocaBee-Control-Portable\diagnostics\20261025-000049\solver-start.png
+Legacy points counter detected at 2275.
+Progress mode: finish all three parts of this package. Starting at None% in part 2 of 3.
+Requested progress boundary is already reached; leaving without answers.
+Clicking WocaBee's visible 'Uložit a odejít' completion action.
+Startup/Connection error: Traceback (most recent call last):
+  File "solver.py", line 1066, in main
+  File "solver.py", line 905, in leave_practice
+  File "solver.py", line 388, in paced_click
+  File "solver.py", line 383, in paced_wait
+  File "playwright\sync_api\_generated.py", line 21403, in wait_for_timeout
+  File "playwright\_impl\_sync_base.py", line 111, in _sync
+  File "playwright\_impl\_page.py", line 1149, in wait_for_timeout
+  File "playwright\_impl\_frame.py", line 929, in wait_for_timeout
+  File "playwright\_impl\_connection.py", line 78, in send
+  File "playwright\_impl\_connection.py", line 636, in wrap_api_call
+playwright._impl._errors.TargetClosedError: : Target page, context or browser has been closed
+
+Could not save diagnostic screenshot: : Target page, context or browser has been closed

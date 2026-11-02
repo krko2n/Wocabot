@@ -1,0 +1,17 @@
+2026-10-18 23:13:55,165 | INFO | Chromium launched successfully (version 156.0.8078.4).
+2026-10-18 23:13:55,662 | INFO | Opened https://wocabee.app/app/
+2026-10-18 23:13:55,714 | INFO | Credentials submitted (values omitted from logs).
+2026-10-18 23:13:57,563 | INFO | Login verified: class list is visible.
+2026-10-18 23:13:57,580 | INFO | Run plan: 1 class(es), all packages per class.
+2026-10-18 23:13:57,765 | INFO | Class navigation verified: https://wocabee.app/app/student/class/?class_id=139365
+2026-10-18 23:13:57,787 | INFO | Class 0: running 2 package(s).
+2026-10-18 23:13:58,103 | INFO | Package navigation verified: https://wocabee.app/app/student/class/practice/?class_id=139365&package_id=1873646&mode=homework
+2026-10-18 23:13:58,261 | INFO | Diagnostic screenshot: C:\Users\matej\Documents\Codex\2026-10-18\task-fix-and-set-up-wocafuckoff\outputs\WocaBee-Control-Portable\diagnostics\20261018-231354\class-0-package-0-selected.png
+2026-10-18 23:13:58,261 | INFO | Starting solver process.
+2026-10-18 23:17:08,050 | ERROR | Startup failed.
+Traceback (most recent call last):
+  File "startup.py", line 298, in main
+  File "startup.py", line 177, in run_solver
+  File "encodings\cp1250.py", line 19, in encode
+UnicodeEncodeError: 'charmap' codec can't encode character '\ufffd' in position 22: character maps to <undefined>
+2026-10-18 23:17:08,296 | INFO | Diagnostic screenshot: C:\Users\matej\Documents\Codex\2026-10-18\task-fix-and-set-up-wocafuckoff\outputs\WocaBee-Control-Portable\diagnostics\20261018-231354\startup-error.png

@@ -1,0 +1,159 @@
+Attached to practice tab: https://wocabee.app/app/student/class/practice/?class_id=139365&package_id=1911582&mode=homework
+Package mappings ready: 16 rows (16 new word mappings, 1 new picture mappings).
+Diagnostic screenshot: F:\WocaBee-Control-Portable\diagnostics\20261024-224643\solver-start.png
+Warning: the selected package is not completed. WocaBee may not award WocaPoints or persist progress until the next package checkpoint.
+Current WocaBee UI has no #WocaPoints counter; addon_points is used as the successful-exercise target, while package progress is logged separately.
+Progress mode: finish all three parts of this package. Starting at 0% in part 1 of 3.
+Skipping vocabulary-introduction step: start exercises after vocabulary introduction.
+Skipping vocabulary-introduction step: next vocabulary card.
+Vocabulary introduction is changing; waiting for its next visible control.
+Vocabulary introduction is changing; waiting for its next visible control.
+Skipping vocabulary-introduction step: next vocabulary card.
+Vocabulary introduction is changing; waiting for its next visible control.
+Vocabulary introduction is changing; waiting for its next visible control.
+Skipping vocabulary-introduction step: next vocabulary card.
+Vocabulary introduction is changing; waiting for its next visible control.
+Vocabulary introduction is changing; waiting for its next visible control.
+Skipping vocabulary-introduction step: next vocabulary card.
+Vocabulary introduction is changing; waiting for its next visible control.
+Vocabulary introduction is changing; waiting for its next visible control.
+Skipping vocabulary-introduction step: next vocabulary card.
+Vocabulary introduction is changing; waiting for its next visible control.
+Vocabulary introduction is changing; waiting for its next visible control.
+Skipping vocabulary-introduction step: next vocabulary card.
+Vocabulary introduction is changing; waiting for its next visible control.
+Vocabulary introduction is changing; waiting for its next visible control.
+Skipping vocabulary-introduction step: next vocabulary card.
+Vocabulary introduction is changing; waiting for its next visible control.
+Skipping vocabulary-introduction step: next vocabulary card.
+Vocabulary introduction is changing; waiting for its next visible control.
+Vocabulary introduction is changing; waiting for its next visible control.
+Skipping vocabulary-introduction step: next vocabulary card.
+Vocabulary introduction is changing; waiting for its next visible control.
+Vocabulary introduction is changing; waiting for its next visible control.
+Skipping vocabulary-introduction step: next vocabulary card.
+Vocabulary introduction is changing; waiting for its next visible control.
+Vocabulary introduction is changing; waiting for its next visible control.
+Skipping vocabulary-introduction step: next vocabulary card.
+Vocabulary introduction is changing; waiting for its next visible control.
+Vocabulary introduction is changing; waiting for its next visible control.
+Skipping vocabulary-introduction step: next vocabulary card.
+Vocabulary introduction is changing; waiting for its next visible control.
+Vocabulary introduction is changing; waiting for its next visible control.
+Skipping vocabulary-introduction step: next vocabulary card.
+Vocabulary introduction is changing; waiting for its next visible control.
+Vocabulary introduction is changing; waiting for its next visible control.
+Skipping vocabulary-introduction step: next vocabulary card.
+Vocabulary introduction is changing; waiting for its next visible control.
+Skipping vocabulary-introduction step: next vocabulary card.
+Vocabulary introduction is changing; waiting for its next visible control.
+Vocabulary introduction is changing; waiting for its next visible control.
+Skipping vocabulary-introduction step: next vocabulary card.
+ChooseWord Question: Vysoké Tatry | Progress: 0
+ChooseWord: clicked die Hohe Tatra | Progress: 3
+Correct exercise confirmed: 1; package progress: 3%
+ChooseWord Question: příroda | Progress: 3
+ChooseWord: clicked die Natur | Progress: 6
+Correct exercise confirmed: 2; package progress: 6%
+ChooseWord Question: kultura | Progress: 6
+ChooseWord: clicked die Kultur | Progress: 9
+Correct exercise confirmed: 3; package progress: 9%
+FindPair: answer 'kennenlernen' not present for 'poznat, seznamit se'
+FindPair: answer 'hektisch' not present for 'hekticky'
+Correct exercise confirmed: 4; package progress: 12%
+CompleteWord Question: příroda
+Target answer: die Natur
+Missing letters: ['d', 'u']
+Clicking CompleteWord submit button | Progress: 12
+Correct exercise confirmed: 5; package progress: 16%
+ChooseWord Question: kennenlernen | Progress: 16
+ChooseWord: clicked poznat, seznámit se | Progress: 19
+Correct exercise confirmed: 6; package progress: 19%
+Correct exercise confirmed: 7; package progress: 22%
+FindPair: answer 'die natur' not present for 'priroda'
+FindPair: answer 'lieb' not present for 'mily'
+Correct exercise confirmed: 8; package progress: 25%
+ChooseWord Question: kufr | Progress: 25
+ChooseWord: clicked der Koffer | Progress: 28
+Correct exercise confirmed: 9; package progress: 28%
+CompleteWord Question: milý
+Target answer: lieb
+Missing letters: ['i']
+Clicking CompleteWord submit button | Progress: 28
+Correct exercise confirmed: 10; package progress: 31%
+ChooseWord Question: pokladna | Progress: 31
+ChooseWord: clicked die Kasse | Progress: 34
+Correct exercise confirmed: 11; package progress: 34%
+ChooseWord Question: seznámení | Progress: 34
+ChooseWord: clicked das Kennenlernen | Progress: 37
+Correct exercise confirmed: 12; package progress: 37%
+CompleteWord Question: minulý
+Target answer: letzte
+Missing letters: ['l', 't']
+Clicking CompleteWord submit button | Progress: 37
+Correct exercise confirmed: 13; package progress: 41%
+Skipping listen-and-choose exercise with WocaBee's skip control.
+ChooseWord Question: lieb | Progress: 41
+ChooseWord: clicked milý | Progress: 44
+Correct exercise confirmed: 14; package progress: 44%
+ChooseWord Question: kultura | Progress: 44
+ChooseWord: clicked die Kultur | Progress: 47
+Correct exercise confirmed: 15; package progress: 47%
+FindPair: answer 'letzte' not present for 'minuly'
+Correct exercise confirmed: 16; package progress: 50%
+ChooseWord Question: Nízké Tatry | Progress: 50
+ChooseWord: clicked die Niedere Tatra | Progress: 53
+Correct exercise confirmed: 17; package progress: 53%
+ChooseWord Question: pokladna | Progress: 53
+ChooseWord: clicked die Kasse | Progress: 56
+Correct exercise confirmed: 18; package progress: 56%
+ChooseWord Question: zájem | Progress: 56
+ChooseWord: clicked das Interesse | Progress: 59
+Correct exercise confirmed: 19; package progress: 59%
+CompleteWord Question: hektický
+Target answer: hektisch
+Missing letters: ['e', 'c']
+Clicking CompleteWord submit button | Progress: 59
+Correct exercise confirmed: 20; package progress: 62%
+ChooseWord Question: zájem | Progress: 62
+ChooseWord: clicked das Interesse | Progress: 66
+Correct exercise confirmed: 21; package progress: 66%
+Skipping transcribe exercise.
+TranslateWord answered: poznat, seznámit se | Progress: 69
+Correct exercise confirmed: 22; package progress: 69%
+CompleteWord Question: Norsko
+Target answer: Norwegen
+Missing letters: ['w', 'g']
+Clicking CompleteWord submit button | Progress: 69
+Correct exercise confirmed: 23; package progress: 72%
+FindPair: answer 'norwegen' not present for 'norsko'
+Correct exercise confirmed: 24; package progress: 75%
+CompleteWord Question: hektický
+Target answer: hektisch
+Missing letters: ['c', 'h']
+Clicking CompleteWord submit button | Progress: 75
+Correct exercise confirmed: 25; package progress: 78%
+ChooseWord Question: die Niedere Tatra | Progress: 78
+ChooseWord: clicked Nízké Tatry | Progress: 81
+Correct exercise confirmed: 26; package progress: 81%
+ChooseWord Question: motivace | Progress: 81
+ChooseWord: clicked die Motivation | Progress: 84
+Correct exercise confirmed: 27; package progress: 84%
+ChooseWord Question: znervóznět | Progress: 84
+ChooseWord: clicked nervös werden | Progress: 87
+Correct exercise confirmed: 28; package progress: 87%
+ChooseWord Question: minulý | Progress: 87
+ChooseWord: clicked letzte | Progress: 91
+Correct exercise confirmed: 29; package progress: 91%
+ChooseWord Question: znervóznět | Progress: 91
+ChooseWord: clicked nervös werden | Progress: 94
+Correct exercise confirmed: 30; package progress: 94%
+Skipping transcribe exercise.
+TranslateWord answered: kufr | Progress: 97
+Correct exercise confirmed: 31; package progress: 97%
+ChooseWord Question: der Kiosk | Progress: 97
+ChooseWord: clicked kiosek | Progress: 100
+WocaBee completion screen detected; saving this completed package part.
+Clicking WocaBee's visible 'Uložit a odejít' completion action.
+Completed package part saved and class package list restored.
+Diagnostic screenshot: F:\WocaBee-Control-Portable\diagnostics\20261024-224643\solver-finished.png

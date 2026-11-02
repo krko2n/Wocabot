@@ -1,0 +1,35 @@
+Attached to practice tab: https://wocabee.app/app/student/class/practice/?class_id=139365&package_id=1891813&mode=homework
+Package mappings ready: 15 rows (0 new word mappings, 0 new picture mappings).
+Diagnostic screenshot: C:\Users\matej\Documents\Codex\2026-10-18\task-fix-and-set-up-wocafuckoff\outputs\WocaBee-Control-Portable\diagnostics\20261018-235547\solver-start.png
+Warning: the selected package is not completed. WocaBee may not award WocaPoints or persist progress until the next package checkpoint.
+Current WocaBee UI has no #WocaPoints counter; addon_points is used as the successful-exercise target, while package progress is logged separately.
+TranslateWord answered: široký | Progress: 2
+Correct exercise confirmed: 1; package progress: 2%
+CompleteWord Question: ohlásit se
+Target answer: sich melden
+Missing letters: ['s', 'c', 'e', 'l', 'e']
+Clicking CompleteWord submit button | Progress: 2
+Correct exercise confirmed: 2; package progress: 4%
+TranslateWord answered: podobný | Progress: 7
+Correct exercise confirmed: 3; package progress: 7%
+TranslateWord answered: hlasitý | Progress: 9
+Correct exercise confirmed: 4; package progress: 9%
+ChooseSpelling answered: der Wortschatz | Progress: 9
+Correct exercise confirmed: 5; package progress: 11%
+CompleteWord Question: učitel angličtiny
+Target answer: der Englischlehrer
+Missing letters: ['e', 'h', 'h', 'e', 'r']
+Clicking CompleteWord submit button | Progress: 11
+Correct exercise confirmed: 6; package progress: 13%
+OneOutOfMany answered: breit | Progress: 13
+Correct exercise confirmed: 7; package progress: 16%
+FindPair: answer 'der muttersprachler' not present for 'rodily mluvci'
+FindPair: answer 'diskutieren' not present for 'diskutovat'
+Correct exercise confirmed: 8; package progress: 18%
+TranslateWord answered: skončit | Progress: 20
+Correct exercise confirmed: 9; package progress: 20%
+ChooseSpelling answered: ähnlich | Progress: 20
+Correct exercise confirmed: 10; package progress: 22%
+Target reached: 10 successful exercises.
+Practice saved and class package list restored.
+Diagnostic screenshot: C:\Users\matej\Documents\Codex\2026-10-18\task-fix-and-set-up-wocafuckoff\outputs\WocaBee-Control-Portable\diagnostics\20261018-235547\solver-finished.png

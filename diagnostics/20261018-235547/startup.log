@@ -1,0 +1,23 @@
+2026-10-18 23:55:47,805 | INFO | Chromium launched successfully (version 156.0.8078.4).
+2026-10-18 23:55:48,324 | INFO | Opened https://wocabee.app/app/
+2026-10-18 23:55:48,379 | INFO | Credentials submitted (values omitted from logs).
+2026-10-18 23:55:50,267 | INFO | Login verified: class list is visible.
+2026-10-18 23:55:50,285 | INFO | Run plan: 1 class(es), selected packages per class.
+2026-10-18 23:55:50,493 | INFO | Class navigation verified: https://wocabee.app/app/student/class/?class_id=139365
+2026-10-18 23:55:50,512 | INFO | Class 0: running 1 package(s).
+2026-10-18 23:55:50,899 | INFO | Package navigation verified: https://wocabee.app/app/student/class/practice/?class_id=139365&package_id=1891813&mode=homework
+2026-10-18 23:55:51,121 | INFO | Diagnostic screenshot: C:\Users\matej\Documents\Codex\2026-10-18\task-fix-and-set-up-wocafuckoff\outputs\WocaBee-Control-Portable\diagnostics\20261018-235547\class-0-package-0-part-1-selected.png
+2026-10-18 23:55:51,121 | INFO | Starting solver process.
+2026-10-18 23:56:53,893 | INFO | Solver exited with code 0.
+2026-10-18 23:56:53,894 | INFO | Saved one package part; reopening the package for its next part.
+2026-10-18 23:56:54,039 | INFO | Package navigation verified: https://wocabee.app/app/student/class/practice/?class_id=139365&package_id=1891813&mode=homework
+2026-10-18 23:56:54,217 | INFO | Diagnostic screenshot: C:\Users\matej\Documents\Codex\2026-10-18\task-fix-and-set-up-wocafuckoff\outputs\WocaBee-Control-Portable\diagnostics\20261018-235547\class-0-package-0-part-2-selected.png
+2026-10-18 23:56:54,217 | INFO | Starting solver process.
+2026-10-18 23:57:51,721 | INFO | Solver exited with code 0.
+2026-10-18 23:57:51,721 | INFO | Saved one package part; reopening the package for its next part.
+2026-10-18 23:57:51,856 | INFO | Package navigation verified: https://wocabee.app/app/student/class/practice/?class_id=139365&package_id=1891813&mode=homework
+2026-10-18 23:57:52,035 | INFO | Diagnostic screenshot: C:\Users\matej\Documents\Codex\2026-10-18\task-fix-and-set-up-wocafuckoff\outputs\WocaBee-Control-Portable\diagnostics\20261018-235547\class-0-package-0-part-3-selected.png
+2026-10-18 23:57:52,035 | INFO | Starting solver process.
+2026-10-18 23:58:46,115 | INFO | Solver exited with code 0.
+2026-10-18 23:58:46,115 | INFO | Saved one package part; reopening the package for its next part.
+2026-10-18 23:58:46,115 | INFO | Run plan completed: 1 package(s).

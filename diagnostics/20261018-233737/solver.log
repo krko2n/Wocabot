@@ -1,0 +1,164 @@
+Attached to practice tab: https://wocabee.app/app/student/class/practice/?class_id=139365&package_id=1891813&mode=homework
+Package mappings ready: 15 rows (0 new word mappings, 0 new picture mappings).
+Diagnostic screenshot: C:\Users\matej\Documents\Codex\2026-10-18\task-fix-and-set-up-wocafuckoff\outputs\WocaBee-Control-Portable\diagnostics\20261018-233737\solver-start.png
+Warning: the selected package is not completed. WocaBee may not award WocaPoints or persist progress until the next package checkpoint.
+Current WocaBee UI has no #WocaPoints counter; addon_points is used as the successful-exercise target, while package progress is logged separately.
+Progress mode: finish all three parts of this package. Starting at 0% in part 1 of 3.
+Skipping vocabulary-introduction step: start exercises after vocabulary introduction.
+Skipping vocabulary-introduction step: next vocabulary card.
+Vocabulary introduction is changing; waiting for its next visible control.
+Vocabulary introduction is changing; waiting for its next visible control.
+Skipping vocabulary-introduction step: next vocabulary card.
+Vocabulary introduction is changing; waiting for its next visible control.
+Vocabulary introduction is changing; waiting for its next visible control.
+Skipping vocabulary-introduction step: next vocabulary card.
+Vocabulary introduction is changing; waiting for its next visible control.
+Vocabulary introduction is changing; waiting for its next visible control.
+Skipping vocabulary-introduction step: next vocabulary card.
+Vocabulary introduction is changing; waiting for its next visible control.
+Vocabulary introduction is changing; waiting for its next visible control.
+Skipping vocabulary-introduction step: next vocabulary card.
+Vocabulary introduction is changing; waiting for its next visible control.
+Vocabulary introduction is changing; waiting for its next visible control.
+Skipping vocabulary-introduction step: next vocabulary card.
+Vocabulary introduction is changing; waiting for its next visible control.
+Vocabulary introduction is changing; waiting for its next visible control.
+Skipping vocabulary-introduction step: next vocabulary card.
+Vocabulary introduction is changing; waiting for its next visible control.
+Vocabulary introduction is changing; waiting for its next visible control.
+Skipping vocabulary-introduction step: next vocabulary card.
+Vocabulary introduction is changing; waiting for its next visible control.
+Vocabulary introduction is changing; waiting for its next visible control.
+Skipping vocabulary-introduction step: next vocabulary card.
+Vocabulary introduction is changing; waiting for its next visible control.
+Vocabulary introduction is changing; waiting for its next visible control.
+Skipping vocabulary-introduction step: next vocabulary card.
+Vocabulary introduction is changing; waiting for its next visible control.
+Vocabulary introduction is changing; waiting for its next visible control.
+Skipping vocabulary-introduction step: next vocabulary card.
+Vocabulary introduction is changing; waiting for its next visible control.
+Vocabulary introduction is changing; waiting for its next visible control.
+Skipping vocabulary-introduction step: next vocabulary card.
+Vocabulary introduction is changing; waiting for its next visible control.
+Vocabulary introduction is changing; waiting for its next visible control.
+Skipping vocabulary-introduction step: next vocabulary card.
+Vocabulary introduction is changing; waiting for its next visible control.
+Vocabulary introduction is changing; waiting for its next visible control.
+Skipping vocabulary-introduction step: next vocabulary card.
+Vocabulary introduction is changing; waiting for its next visible control.
+Vocabulary introduction is changing; waiting for its next visible control.
+Skipping vocabulary-introduction step: next vocabulary card.
+Skipping transcribe exercise.
+TranslateWord answered: rodilý mluvčí | Progress: 3
+Correct exercise confirmed: 1; package progress: 3%
+ChooseWord Question: kosmetická operace | Progress: 3
+ChooseWord: clicked die Schönheitsoperation | Progress: 7
+Correct exercise confirmed: 2; package progress: 7%
+Skipping listen-and-choose exercise with WocaBee's skip control.
+ChooseWord Question: zufrieden | Progress: 7
+ChooseWord: clicked spokojený | Progress: 10
+Correct exercise confirmed: 3; package progress: 10%
+FindPair: answer 'diskutieren' not present for 'diskutovat'
+Correct exercise confirmed: 4; package progress: 13%
+ChooseWord Question: spokojený | Progress: 13
+ChooseWord: clicked zufrieden | Progress: 17
+Correct exercise confirmed: 5; package progress: 17%
+CompleteWord Question: učit se
+Target answer: lernen
+Missing letters: ['n', 'n']
+Clicking CompleteWord submit button | Progress: 17
+Correct exercise confirmed: 6; package progress: 20%
+ChooseWord Question: špatný, špatně | Progress: 20
+ChooseWord: clicked schlimm | Progress: 23
+Correct exercise confirmed: 7; package progress: 23%
+CompleteWord Question: kosmetická operace
+Target answer: die Schönheitsoperation
+Missing letters: ['e', 'i', 'r', 't', 'o']
+Clicking CompleteWord submit button | Progress: 23
+Correct exercise confirmed: 8; package progress: 27%
+ChooseWord Question: učitel angličtiny | Progress: 27
+ChooseWord: clicked der Englischlehrer | Progress: 30
+Correct exercise confirmed: 9; package progress: 30%
+ChooseWord Question: učit se | Progress: 30
+ChooseWord: clicked lernen | Progress: 33
+Correct exercise confirmed: 10; package progress: 33%
+ChooseWord Question: téma | Progress: 33
+ChooseWord: clicked das Thema | Progress: 37
+Correct exercise confirmed: 11; package progress: 37%
+CompleteWord Question: podobný
+Target answer: ähnlich
+Missing letters: ['h', 'h']
+Clicking CompleteWord submit button | Progress: 37
+Correct exercise confirmed: 12; package progress: 40%
+CompleteWord Question: diskutovat
+Target answer: diskutieren
+Missing letters: ['s', 't', 'e']
+Clicking CompleteWord submit button | Progress: 40
+Correct exercise confirmed: 13; package progress: 43%
+ChooseWord Question: široký | Progress: 43
+ChooseWord: clicked breit | Progress: 47
+Correct exercise confirmed: 14; package progress: 47%
+CompleteWord Question: mladý
+Target answer: jung
+Missing letters: ['j']
+Clicking CompleteWord submit button | Progress: 47
+Correct exercise confirmed: 15; package progress: 50%
+ChooseWord Question: široký | Progress: 50
+ChooseWord: clicked breit | Progress: 53
+Correct exercise confirmed: 16; package progress: 53%
+ChoosePicture: clicked correct image for 'laut' | Progress: 57%
+Correct exercise confirmed: 17; package progress: 57%
+ChooseWord Question: rodilý mluvčí | Progress: 57
+ChooseWord: clicked der Muttersprachler | Progress: 60
+Correct exercise confirmed: 18; package progress: 60%
+Skipping transcribe exercise.
+TranslateWord answered: hlasitý | Progress: 63
+Correct exercise confirmed: 19; package progress: 63%
+ChooseWord Question: mladý | Progress: 63
+ChooseWord: clicked jung | Progress: 67
+Correct exercise confirmed: 20; package progress: 67%
+Correct exercise confirmed: 21; package progress: 80%
+Correct exercise confirmed: 22; package progress: 83%
+Correct exercise confirmed: 23; package progress: 87%
+ChooseWord Question: aus sein | Progress: 87
+ChooseWord: clicked skončit | Progress: 90
+Correct exercise confirmed: 24; package progress: 90%
+Skipping transcribe exercise.
+TranslateWord answered: ohlásit se | Progress: 93
+Correct exercise confirmed: 25; package progress: 93%
+Skipping transcribe exercise.
+TranslateWord answered: slovní zásoba | Progress: 97
+Correct exercise confirmed: 26; package progress: 97%
+CompleteWord Question: špatný, špatně
+Target answer: schlimm
+Missing letters: ['c', 'm']
+Clicking CompleteWord submit button | Progress: 97
+Diagnostic screenshot: C:\Users\matej\Documents\Codex\2026-10-18\task-fix-and-set-up-wocafuckoff\outputs\WocaBee-Control-Portable\diagnostics\20261018-233737\unsupported-or-idle.png
+Runtime error: Traceback (most recent call last):
+  File "solver.py", line 1168, in main
+RuntimeError: No supported exercise became actionable. Visible state: none
+
+Diagnostic screenshot: C:\Users\matej\Documents\Codex\2026-10-18\task-fix-and-set-up-wocafuckoff\outputs\WocaBee-Control-Portable\diagnostics\20261018-233737\runtime-error-1.png
+Diagnostic screenshot: C:\Users\matej\Documents\Codex\2026-10-18\task-fix-and-set-up-wocafuckoff\outputs\WocaBee-Control-Portable\diagnostics\20261018-233737\unsupported-or-idle.png
+Runtime error: Traceback (most recent call last):
+  File "solver.py", line 1168, in main
+RuntimeError: No supported exercise became actionable. Visible state: none
+
+Diagnostic screenshot: C:\Users\matej\Documents\Codex\2026-10-18\task-fix-and-set-up-wocafuckoff\outputs\WocaBee-Control-Portable\diagnostics\20261018-233737\runtime-error-2.png
+Diagnostic screenshot: C:\Users\matej\Documents\Codex\2026-10-18\task-fix-and-set-up-wocafuckoff\outputs\WocaBee-Control-Portable\diagnostics\20261018-233737\unsupported-or-idle.png
+Runtime error: Traceback (most recent call last):
+  File "solver.py", line 1168, in main
+RuntimeError: No supported exercise became actionable. Visible state: none
+
+Diagnostic screenshot: C:\Users\matej\Documents\Codex\2026-10-18\task-fix-and-set-up-wocafuckoff\outputs\WocaBee-Control-Portable\diagnostics\20261018-233737\runtime-error-3.png
+Startup/Connection error: Traceback (most recent call last):
+  File "solver.py", line 1168, in main
+RuntimeError: No supported exercise became actionable. Visible state: none
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "solver.py", line 1186, in main
+RuntimeError: Three consecutive runtime errors; stopping safely.
+
+Diagnostic screenshot: C:\Users\matej\Documents\Codex\2026-10-18\task-fix-and-set-up-wocafuckoff\outputs\WocaBee-Control-Portable\diagnostics\20261018-233737\solver-fatal.png
