@@ -14,24 +14,21 @@ Používejte jen se svým účtem, v souladu s pravidly školy a služby. Aplika
 
 ## Rychlý start ve Windows
 
-1. Stáhněte ZIP repozitáře a rozbalte jej do vlastní složky s dostatkem místa na disku.
-2. Dvakrát klikněte na `Setup-Browser.cmd`. Jednou nainstaluje kompatibilní Playwright runtime do této složky. Vyžaduje Python 3 a internetové připojení; stáhne několik stovek MB.
-3. Otevřete `config.toml`, doplňte vlastní přihlašovací údaje a uložte jej. Tento soubor je záměrně ignorovaný Gitem.
-4. Spusťte `Start-WocaBee-Control.cmd` a pokračujte z ovládacího okna.
+Toto vydání obsahuje kompletní portable runtime včetně Chromiumu. Dva jeho velké soubory jsou uložené přes Git LFS, proto nepoužívejte obyčejný GitHub ZIP — nemusí obsahovat LFS data.
 
-Pokud Python ve Windows nemáte, instalační skript zobrazí odkaz na jeho oficiální instalaci. Po instalaci skript spusťte znovu.
+1. Nainstalujte [Git LFS](https://git-lfs.com/) a v terminálu spusťte `git lfs install`.
+2. Stáhněte celý projekt: `git clone https://github.com/krko2n/Wocabot.git`.
+3. V jeho složce spusťte `git lfs pull` a počkejte na stažení všech souborů.
+4. Otevřete `config.toml`, nahraďte `GENERIC_USERNAME` a `GENERIC_PASSWORD` vlastními údaji a soubor uložte.
+5. Spusťte `Start-WocaBee-Control.cmd`.
+
+`Setup-Browser.cmd` zůstává jako záložní varianta pro lokální obnovení browser runtime, pokud jste jej přes Git LFS nestáhli.
 
 ## Konfigurace a soukromí
 
-`config.example.toml` je veřejná šablona. Při prvním nastavení se zkopíruje jako místní `config.toml`. Do repozitáře nepatří:
+`config.toml` je veřejná výchozí konfigurace. Jediné nahrazené hodnoty jsou `username` a `password`, které obsahují generické zástupné řetězce; notifikační hodnoty jsou prázdné.
 
-- přihlašovací údaje, tokeny a nastavení oznámení;
-- adresář `runtime/` s místně naučenými slovními a obrázkovými mapami;
-- `diagnostics/` a screenshoty;
-- `ms-playwright/` se staženým browser runtime;
-- zálohy spustitelných souborů a soubory `*.bak`.
-
-Pokud chcete začít znovu s prázdnými mapami, zavřete aplikaci a smažte pouze složku `runtime` ve své lokální kopii. Nikdy nemažte `config.toml`, pokud si jej nejdříve nezálohujete.
+Distribuce záměrně obsahuje kompletní portable obsah média včetně diagnostiky, naučených map, browser runtime a historických záložních EXE. Po doplnění vlastních údajů proto `config.toml` nikdy znovu necommitujte ani nesdílejte.
 
 ## Nastavení
 
@@ -52,19 +49,20 @@ Wocabot/
 ├── WocaBee-Control.exe      # grafické ovládání
 ├── WocaBee-Runner.exe       # spuštění zvoleného plánu
 ├── WocaBee-Solver.exe       # řešič cvičení
-├── Setup-Browser.cmd        # jednorázové stažení browser runtime
+├── ms-playwright/           # přibalený Chromium runtime (část je v Git LFS)
 ├── Start-WocaBee-Control.cmd
-├── config.example.toml       # bezpečná šablona
-├── defaults/                 # prázdné šablony místních map
-└── runtime/                  # vytvoří se lokálně, není ve verzování
+├── config.toml               # veřejná konfigurace s generickými údaji
+├── diagnostics/              # přibalená diagnostika z portable média
+├── wordlist.json             # přibalená mapa slov
+└── picturelist.json          # přibalená mapa obrázků
 ```
 
 ## Řešení problémů
 
-- **Chybí Chromium / prohlížeč se nespustí:** spusťte znovu `Setup-Browser.cmd`; ověřte volné místo a internetové připojení.
+- **Chybí Chromium / prohlížeč se nespustí:** proveďte `git lfs pull`; případně spusťte `Setup-Browser.cmd` a ověřte volné místo i internetové připojení.
 - **Python nebyl nalezen:** nainstalujte Python 3 z [python.org](https://www.python.org/downloads/) a zopakujte setup.
 - **Přihlášení nefunguje:** zkontrolujte vlastní hodnoty v `config.toml`; žádné skutečné údaje nevkládejte do issues ani commitů.
-- **Aplikace nenajde data:** nechte `wordlist_file` a `picture_file` na výchozích cestách `runtime/...` a spusťte setup.
+- **Aplikace nenajde data:** ponechte `wordlist_file` a `picture_file` na výchozích cestách z `config.toml`.
 - **Chování služby se změnilo:** neprodlužujte bezmyšlenkovitě časování; nejprve ověřte aktuální webové rozhraní a ponechte diagnostiku pouze lokálně.
 
 ## Omezení vydání

@@ -1,5 +1,4 @@
 # Per-user authentication and local configuration
-config.toml
 *.local.toml
 .env
 .env.*
